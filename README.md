@@ -1,4 +1,4 @@
-###Business Problem Using Linear Programming (LP)
+### Business Problem Using Linear Programming (LP)
 
 ***Project Overview***
 
@@ -10,9 +10,10 @@ The example problem is a Product Mix Optimization, where a factory wants to maxi
 A factory produces two products: Product A and Product B.
 Each product requires labor hours and raw material:
 
-Product	  Profit per unit ($)	  Labor (hours/unit)	  Material (kg/unit)
-A	         40	                   2	                    3
-B	         30	                   1	                    2
+| Product | Profit per unit (\$) | Labor (hours/unit) | Material (kg/unit) |
+| ------- | -------------------- | ------------------ | ------------------ |
+| A       | 40                   | 2                  | 3                  |
+| B       | 30                   | 1                  | 2                  |
 
 Available resources:
 
@@ -65,7 +66,3 @@ python main.py
 
 View optimal production and maximum profit in the console.
 
-***Author***
-
-Eswar Reddy Boyi
-eswarboyi7@gmail.com | https://github.com/22BCE8093-Eswar/Business-Problem
